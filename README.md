@@ -5,17 +5,17 @@ With the increasing complexity of educational administration, there arises a nee
 
 ## Key Features:
 
-### User-friendly Interface: The system features an intuitive graphical interface built using the Tkinter library in Python, ensuring ease of use for administrators and educators.
+### User-friendly Interface
 
-### Database Integration: Utilizing SQLite, the system stores and manages student data in a structured manner, enabling efficient retrieval and manipulation of information.
+### Database Integration
 
-### Student Record Management: Administrators can add, update, delete, and search for student records, including personal details, class assignments, and admission dates.
+### Student Record Management
 
-### Payment Tracking: The system allows tracking of payment records, enabling administrators to monitor fee payments on a monthly basis.
+### Payment Tracking
 
-### Customizable Reporting: Educators can generate customized reports to analyze student performance, attendance, and payment history, aiding in informed decision-making.
+### Customizable Reporting
 
-### Error Handling and Validation: The system incorporates robust error handling mechanisms and data validation checks to ensure data integrity and minimize errors.
+### Error Handling and Validation:
 
 ## Required modules:
 ### tkinter: This module is a standard GUI (Graphical User Interface) library in Python, used for creating GUI applications.
